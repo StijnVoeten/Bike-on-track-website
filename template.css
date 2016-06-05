@@ -3,7 +3,7 @@ body {
   background-size: cover;
   height: 110%;
   margin: 25px auto;
-  font-family: 'DK Lemon Yellow Sun';
+  font-family: 'dk_lemon_yellow_sunregular';
 }
 
 
@@ -36,7 +36,7 @@ header {
 
 a {
   text-decoration: none;
-  font-family: 'DK Lemon Yellow Sun';
+  font-family: 'dk_lemon_yellow_sunregular';
   color: black;
   font-weight: bold;
 }
