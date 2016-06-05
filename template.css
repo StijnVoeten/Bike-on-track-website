@@ -6,11 +6,15 @@ body {
   font-family: 'DK Lemon Yellow Sun';
 }
 
-@font-face {
-    font-family: 'DK Lemon Yellow Sun';
-    src: url(DK Lemon Yellow Sun.otf);
-}
 
+@font-face {
+    font-family: 'dk_lemon_yellow_sunregular';
+    src: url('dk_lemon_yellow_sun-webfont.woff2') format('woff2'),
+         url('dk_lemon_yellow_sun-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 
 a.bottom {
   background-image: url("afbeeldingen/top.png");
