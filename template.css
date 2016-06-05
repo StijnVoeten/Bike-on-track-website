@@ -3,18 +3,9 @@ body {
   background-size: cover;
   height: 110%;
   margin: 25px auto;
-  font-family: 'dk_lemon_yellow_sunregular';
+  font-family: 'Patrick Hand';
 }
 
-
-@font-face {
-    font-family: 'dk_lemon_yellow_sunregular';
-    src: url('dk_lemon_yellow_sun-webfont.woff2') format('woff2'),
-         url('dk_lemon_yellow_sun-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
 
 a.bottom {
   background-image: url("afbeeldingen/top.png");
@@ -36,7 +27,7 @@ header {
 
 a {
   text-decoration: none;
-  font-family: 'dk_lemon_yellow_sunregular';
+  font-family: 'Patrick hand';
   color: black;
   font-weight: bold;
 }
